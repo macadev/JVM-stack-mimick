@@ -1,0 +1,1 @@
+Algorithm that executes merge sort as it mimics the JVM stack. It is a very abstract concept, executing the program will give a better understanding. Each recursive call creates a new stack on the JVM and pushes all the variables associated with the call. Once recursion hits a base case, the stack is pushed and a value is returned to the previous stack frame.
